@@ -1,0 +1,302 @@
+{
+  "장전": [
+    {
+      "Company": "삼성전자\", \"레인보우로보틱스\", \"엔비디아\", \"오픈AI\", \"테슬라",
+      "Count": 1,
+      "Average_Sentiment": 1.0,
+      "Categories": ["[빅테크, 로봇, 인공지능, 투자]"],
+      "Dates": ["2025-01-01 00:02"]
+    },
+    {
+      "Company": "[\"제주항공\", \"한국경영자총협회\", \"한국무역협회\", \"대한상공회의소\", \"삼성전자\", \"SK그룹\", \"현대자동차\", \"LG그룹\", \"롯데물산\", \"롯데월드\", \"신세계백화점\", \"CJ그룹\"]",
+      "Count": 1,
+      "Average_Sentiment": -1.0,
+      "Categories": ["[경제]"],
+      "Dates": ["2025-01-01 00:02"]
+    },
+    {
+      "Company": "[CJ그룹, 삼천리그룹, 낙월블루하트, 제주항공]",
+      "Count": 1,
+      "Average_Sentiment": 1.0,
+      "Categories": ["[기부, 사회복지, 재해구호]"],
+      "Dates": ["2025-01-01 00:02"]
+    },
+    {
+      "Company": "BNP Paribas\", \"Standard Chartered\", \"Nomura\", \"Korea Development Institute\", \"Korea Institute for International Economic Policy",
+      "Count": 1,
+      "Average_Sentiment": -1.0,
+      "Categories": ["[환율, 외환시장, 경제 전망, 외환보유액]"],
+      "Dates": ["2025-01-01 00:02"]
+    },
+    {
+      "Company": "CJ푸드빌",
+      "Count": 1,
+      "Average_Sentiment": 1.0,
+      "Categories": ["[경제]"],
+      "Dates": ["2025-01-01 00:02"]
+    },
+    {
+      "Company": "삼성전자, 메리츠증권, 미래에셋증권, 신영증권, 한국투자증권, KB증권, 네이버, SK하이닉스, 창신메모리테크놀로지",
+      "Count": 1,
+      "Average_Sentiment": 0.0,
+      "Categories": [
+        "[조선, 방산, 전력, 플랫폼, 반도체, AI, 인터넷, 게임, 원전]"
+      ],
+      "Dates": ["2025-01-01 00:03"]
+    },
+    {
+      "Company": "에르메스\", \"LVMH\", \"루이비통\", \"샤넬\", \"구찌\", \"프라다\", \"태그호이어\", \"롤렉스",
+      "Count": 1,
+      "Average_Sentiment": -1.0,
+      "Categories": ["[경제, 명품, 환율]"],
+      "Dates": ["2025-01-01 00:03"]
+    },
+    {
+      "Company": "중앙일보",
+      "Count": 1,
+      "Average_Sentiment": 0.0,
+      "Categories": ["[경제]"],
+      "Dates": ["2025-01-01 00:03"]
+    },
+    {
+      "Company": "SK그룹\", \"한국수출입은행\", \"한국무역협회\", \"대한상공회의소",
+      "Count": 1,
+      "Average_Sentiment": -1.0,
+      "Categories": ["[경제, 무역, 산업, 수출입, 정치 리스크]"],
+      "Dates": ["2025-01-01 00:03"]
+    },
+    {
+      "Company": "제주항공",
+      "Count": 1,
+      "Average_Sentiment": -1.0,
+      "Categories": ["[항공, 재난]"],
+      "Dates": ["2025-01-01 00:11"]
+    },
+    {
+      "Company": "한국은행\", \"우리은행\", \"NH농협은행\", \"부동산114\", \"한국건설산업연구원",
+      "Count": 1,
+      "Average_Sentiment": 0.0,
+      "Categories": ["[부동산, 경제, 금융]"],
+      "Dates": ["2025-01-01 05:01"]
+    }
+  ],
+  "장중": [
+    {
+      "Company": "한국은행\", \"국제통화기금\", \"경제협력개발기구",
+      "Count": 1,
+      "Average_Sentiment": -1.0,
+      "Categories": ["[경제, 금융]"],
+      "Dates": ["2025-01-02 10:41"]
+    },
+    {
+      "Company": "제주항공\", \"중앙일보\", \"기획재정부\", \"산업은행",
+      "Count": 1,
+      "Average_Sentiment": 0.0,
+      "Categories": [
+        "[경제정책, 금융, 제조업, 조선업, 반도체, 2차전지, 석유화학, 부동산, 통상환경]"
+      ],
+      "Dates": ["2025-01-02 10:41"]
+    },
+    {
+      "Company": "한국은행",
+      "Count": 1,
+      "Average_Sentiment": 0.0,
+      "Categories": ["[경제, 금융]"],
+      "Dates": ["2025-01-02 11:52"]
+    },
+    {
+      "Company": "한국부동산원",
+      "Count": 1,
+      "Average_Sentiment": -1.0,
+      "Categories": ["[부동산, 경제]"],
+      "Dates": ["2025-01-02 14:04"]
+    },
+    {
+      "Company": "BYD\", \"Tesla\", \"Nissan\", \"Volkswagen\", \"Honda",
+      "Count": 1,
+      "Average_Sentiment": 1.0,
+      "Categories": ["[Electric Vehicles, Automotive Industry]"],
+      "Dates": ["2025-01-02 14:10"]
+    }
+  ],
+  "장후": [
+    {
+      "Company": "제주항공",
+      "Count": 1,
+      "Average_Sentiment": -1.0,
+      "Categories": ["[항공, 사고 조사]"],
+      "Dates": ["2025-01-01 15:45"]
+    },
+    {
+      "Company": "삼성전자\", \"LG전자\", \"인텔",
+      "Count": 1,
+      "Average_Sentiment": 0.0,
+      "Categories": ["[경제, IT/과학]"],
+      "Dates": ["2025-01-01 16:42"]
+    },
+    {
+      "Company": "SK그룹\", \"현대그룹\", \"GS그룹\", \"두산그룹\", \"현대백화점그룹\", \"삼성전자",
+      "Count": 1,
+      "Average_Sentiment": 0.0,
+      "Categories": [
+        "[경제, AI, 조선, 반도체, 에너지 솔루션, 전자소재, 원전, 수소연료전지]"
+      ],
+      "Dates": ["2025-01-01 16:50"]
+    },
+    {
+      "Company": "제주항공\", \"보잉",
+      "Count": 1,
+      "Average_Sentiment": -1.0,
+      "Categories": ["[항공, 사고 조사]"],
+      "Dates": ["2025-01-01 16:59"]
+    },
+    {
+      "Company": "마이크론\", \"한화정밀기계\", \"SK하이닉스\", \"삼성전자\", \"한미반도체\", \"창신메모리",
+      "Count": 1,
+      "Average_Sentiment": -1.0,
+      "Categories": ["[반도체, 메모리, HBM, D램, 낸드 메모리]"],
+      "Dates": ["2025-01-01 17:07"]
+    },
+    {
+      "Company": "[\"삼성전자\", \"현대자동차\", \"SK하이닉스\", \"LG디스플레이\", \"삼성SDI\"]",
+      "Count": 1,
+      "Average_Sentiment": 1.0,
+      "Categories": [
+        "[수출, 무역, 반도체, 자동차, 석유화학, 바이오헬스, 정보기술]"
+      ],
+      "Dates": ["2025-01-01 17:16"]
+    },
+    {
+      "Company": "KB국민은행\", \"신한은행\", \"우리은행\", \"하나은행\", \"NH농협은행",
+      "Count": 1,
+      "Average_Sentiment": -1.0,
+      "Categories": ["[금융, 대출, 금리]"],
+      "Dates": ["2025-01-01 18:21"]
+    },
+    {
+      "Company": "삼성전자\", \"SK하이닉스\", \"현대자동차",
+      "Count": 1,
+      "Average_Sentiment": -1.0,
+      "Categories": ["[반도체, 자동차, 무역, 통상정책]"],
+      "Dates": ["2025-01-01 18:43"]
+    },
+    {
+      "Company": "테슬라\", \"팔란티어 테크놀로지스\", \"넷플릭스",
+      "Count": 1,
+      "Average_Sentiment": 0.0,
+      "Categories": [
+        "[주식, 투자, 전기차, 데이터 분석, 소프트웨어, 인공지능, 자율주행]"
+      ],
+      "Dates": ["2025-01-01 21:01"]
+    },
+    {
+      "Company": "중앙그룹",
+      "Count": 1,
+      "Average_Sentiment": 0.0,
+      "Categories": [
+        "[미디어, 엔터테인먼트, 레저, 뉴스, 드라마, 영화, 스포츠 중계]"
+      ],
+      "Dates": ["2025-01-02 15:44"]
+    },
+    {
+      "Company": "삼성SDS\", \"아마존웹서비스\", \"마이크로소프트\", \"구글\", \"대한항공\", \"한화생명\", \"메가존클라우드\", \"베스핀글로벌\", \"LG CNS\", \"SK C&C",
+      "Count": 1,
+      "Average_Sentiment": 1.0,
+      "Categories": [
+        "[클라우드 서비스, IT 서비스, 인공지능(AI), 시스템통합(SI), IT아웃소싱(ITO), 퍼블릭 클라우드 서비스(CSP), 매니지드 클라우드 서비스(MSP)]"
+      ],
+      "Dates": ["2025-01-02 15:53"]
+    },
+    {
+      "Company": "KB금융그룹\", \"신한금융그룹\", \"하나금융그룹\", \"우리금융그룹",
+      "Count": 1,
+      "Average_Sentiment": -1.0,
+      "Categories": ["[금융]"],
+      "Dates": ["2025-01-02 16:06"]
+    },
+    {
+      "Company": "KB국민은행",
+      "Count": 1,
+      "Average_Sentiment": 1.0,
+      "Categories": ["[금융]"],
+      "Dates": ["2025-01-02 16:07"]
+    },
+    {
+      "Company": "SPC그룹",
+      "Count": 1,
+      "Average_Sentiment": 1.0,
+      "Categories": ["[경제]"],
+      "Dates": ["2025-01-02 16:26"]
+    },
+    {
+      "Company": "한국노동연구원\", \"한국은행\", \"한국고용정보원",
+      "Count": 1,
+      "Average_Sentiment": -1.0,
+      "Categories": ["[경제, 고용, 노동시장]"],
+      "Dates": ["2025-01-02 16:41"]
+    },
+    {
+      "Company": "[\"삼성전자\", \"SK\", \"현대자동차\", \"LG\", \"포스코\", \"롯데\", \"한화\", \"GS\", \"한국무역협회\", \"대한상공회의소\"]",
+      "Count": 1,
+      "Average_Sentiment": -1.0,
+      "Categories": ["[경제, 금융]"],
+      "Dates": ["2025-01-02 16:49"]
+    },
+    {
+      "Company": "삼성전자\", \"LG전자",
+      "Count": 1,
+      "Average_Sentiment": 0.0,
+      "Categories": ["[IT/과학, 경제]"],
+      "Dates": ["2025-01-02 16:49"]
+    },
+    {
+      "Company": "롯데그룹\", \"CJ그룹\", \"신세계그룹\", \"삼양그룹\", \"제네시스BBQ",
+      "Count": 1,
+      "Average_Sentiment": -1.0,
+      "Categories": ["[유통, 식품, 인공지능, 글로벌 사업, 스페셜티 시장]"],
+      "Dates": ["2025-01-02 16:52"]
+    },
+    {
+      "Company": "[\"삼성전자\", \"SK하이닉스\", \"삼성바이오로직스\", \"셀트리온\", \"네이버\"]",
+      "Count": 1,
+      "Average_Sentiment": 0.0,
+      "Categories": ["[암호화폐, 자본시장, 증권, 파생상품, 수출]"],
+      "Dates": ["2025-01-02 16:53"]
+    },
+    {
+      "Company": "한국부동산원",
+      "Count": 1,
+      "Average_Sentiment": -1.0,
+      "Categories": ["[부동산, 경제]"],
+      "Dates": ["2025-01-02 16:59"]
+    },
+    {
+      "Company": "제주항공\", \"한국공항공사\", \"보잉",
+      "Count": 1,
+      "Average_Sentiment": -1.0,
+      "Categories": ["[항공, 사고 조사, 안전]"],
+      "Dates": ["2025-01-02 17:08"]
+    },
+    {
+      "Company": "하나금융지주",
+      "Count": 1,
+      "Average_Sentiment": 1.0,
+      "Categories": ["[금융]"],
+      "Dates": ["2025-01-02 17:14"]
+    },
+    {
+      "Company": "현대중공업\", \"한국조선해양\", \"한화오션\", \"삼성중공업",
+      "Count": 1,
+      "Average_Sentiment": 1.0,
+      "Categories": ["[조선업, 금융, 친환경 기술]"],
+      "Dates": ["2025-01-02 18:11"]
+    },
+    {
+      "Company": "하나은행\", \"한국은행\", \"국민연금공단\", \"신한은행",
+      "Count": 1,
+      "Average_Sentiment": 0.0,
+      "Categories": ["[경제, 금융, 외환시장]"],
+      "Dates": ["2025-01-02 21:00"]
+    }
+  ]
+}

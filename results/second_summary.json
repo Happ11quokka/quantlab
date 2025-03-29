@@ -1,0 +1,1144 @@
+{
+  "장전": [
+    {
+      "Company": "삼성전자",
+      "Count": 3,
+      "Average_Sentiment": 0.0,
+      "Categories": [
+        "AI",
+        "게임",
+        "경제",
+        "로봇",
+        "반도체",
+        "방산",
+        "빅테크",
+        "원전",
+        "인공지능",
+        "인터넷",
+        "전력",
+        "조선",
+        "투자",
+        "플랫폼"
+      ]
+    },
+    {
+      "Company": "제주항공",
+      "Count": 3,
+      "Average_Sentiment": -0.3333,
+      "Categories": ["경제", "기부", "사회복지", "재난", "재해구호", "항공"]
+    },
+    {
+      "Company": "한국무역협회",
+      "Count": 2,
+      "Average_Sentiment": -1.0,
+      "Categories": ["경제", "무역", "산업", "수출입", "정치 리스크"]
+    },
+    {
+      "Company": "대한상공회의소",
+      "Count": 2,
+      "Average_Sentiment": -1.0,
+      "Categories": ["경제", "무역", "산업", "수출입", "정치 리스크"]
+    },
+    {
+      "Company": "SK그룹",
+      "Count": 2,
+      "Average_Sentiment": -1.0,
+      "Categories": ["경제", "무역", "산업", "수출입", "정치 리스크"]
+    },
+    {
+      "Company": "CJ그룹",
+      "Count": 2,
+      "Average_Sentiment": 0.0,
+      "Categories": ["경제", "기부", "사회복지", "재해구호"]
+    },
+    {
+      "Company": "레인보우로보틱스",
+      "Count": 1,
+      "Average_Sentiment": 1.0,
+      "Categories": ["로봇", "빅테크", "인공지능", "투자"]
+    },
+    {
+      "Company": "엔비디아",
+      "Count": 1,
+      "Average_Sentiment": 1.0,
+      "Categories": ["로봇", "빅테크", "인공지능", "투자"]
+    },
+    {
+      "Company": "오픈AI",
+      "Count": 1,
+      "Average_Sentiment": 1.0,
+      "Categories": ["로봇", "빅테크", "인공지능", "투자"]
+    },
+    {
+      "Company": "테슬라",
+      "Count": 1,
+      "Average_Sentiment": 1.0,
+      "Categories": ["로봇", "빅테크", "인공지능", "투자"]
+    },
+    {
+      "Company": "한국경영자총협회",
+      "Count": 1,
+      "Average_Sentiment": -1.0,
+      "Categories": ["경제"]
+    },
+    {
+      "Company": "현대자동차",
+      "Count": 1,
+      "Average_Sentiment": -1.0,
+      "Categories": ["경제"]
+    },
+    {
+      "Company": "LG그룹",
+      "Count": 1,
+      "Average_Sentiment": -1.0,
+      "Categories": ["경제"]
+    },
+    {
+      "Company": "롯데물산",
+      "Count": 1,
+      "Average_Sentiment": -1.0,
+      "Categories": ["경제"]
+    },
+    {
+      "Company": "롯데월드",
+      "Count": 1,
+      "Average_Sentiment": -1.0,
+      "Categories": ["경제"]
+    },
+    {
+      "Company": "신세계백화점",
+      "Count": 1,
+      "Average_Sentiment": -1.0,
+      "Categories": ["경제"]
+    },
+    {
+      "Company": "삼천리그룹",
+      "Count": 1,
+      "Average_Sentiment": 1.0,
+      "Categories": ["기부", "사회복지", "재해구호"]
+    },
+    {
+      "Company": "낙월블루하트",
+      "Count": 1,
+      "Average_Sentiment": 1.0,
+      "Categories": ["기부", "사회복지", "재해구호"]
+    },
+    {
+      "Company": "BNP Paribas",
+      "Count": 1,
+      "Average_Sentiment": -1.0,
+      "Categories": ["경제 전망", "외환보유액", "외환시장", "환율"]
+    },
+    {
+      "Company": "Standard Chartered",
+      "Count": 1,
+      "Average_Sentiment": -1.0,
+      "Categories": ["경제 전망", "외환보유액", "외환시장", "환율"]
+    },
+    {
+      "Company": "Nomura",
+      "Count": 1,
+      "Average_Sentiment": -1.0,
+      "Categories": ["경제 전망", "외환보유액", "외환시장", "환율"]
+    },
+    {
+      "Company": "Korea Development Institute",
+      "Count": 1,
+      "Average_Sentiment": -1.0,
+      "Categories": ["경제 전망", "외환보유액", "외환시장", "환율"]
+    },
+    {
+      "Company": "Korea Institute for International Economic Policy",
+      "Count": 1,
+      "Average_Sentiment": -1.0,
+      "Categories": ["경제 전망", "외환보유액", "외환시장", "환율"]
+    },
+    {
+      "Company": "CJ푸드빌",
+      "Count": 1,
+      "Average_Sentiment": 1.0,
+      "Categories": ["경제"]
+    },
+    {
+      "Company": "메리츠증권",
+      "Count": 1,
+      "Average_Sentiment": 0.0,
+      "Categories": [
+        "AI",
+        "게임",
+        "반도체",
+        "방산",
+        "원전",
+        "인터넷",
+        "전력",
+        "조선",
+        "플랫폼"
+      ]
+    },
+    {
+      "Company": "미래에셋증권",
+      "Count": 1,
+      "Average_Sentiment": 0.0,
+      "Categories": [
+        "AI",
+        "게임",
+        "반도체",
+        "방산",
+        "원전",
+        "인터넷",
+        "전력",
+        "조선",
+        "플랫폼"
+      ]
+    },
+    {
+      "Company": "신영증권",
+      "Count": 1,
+      "Average_Sentiment": 0.0,
+      "Categories": [
+        "AI",
+        "게임",
+        "반도체",
+        "방산",
+        "원전",
+        "인터넷",
+        "전력",
+        "조선",
+        "플랫폼"
+      ]
+    },
+    {
+      "Company": "한국투자증권",
+      "Count": 1,
+      "Average_Sentiment": 0.0,
+      "Categories": [
+        "AI",
+        "게임",
+        "반도체",
+        "방산",
+        "원전",
+        "인터넷",
+        "전력",
+        "조선",
+        "플랫폼"
+      ]
+    },
+    {
+      "Company": "KB증권",
+      "Count": 1,
+      "Average_Sentiment": 0.0,
+      "Categories": [
+        "AI",
+        "게임",
+        "반도체",
+        "방산",
+        "원전",
+        "인터넷",
+        "전력",
+        "조선",
+        "플랫폼"
+      ]
+    },
+    {
+      "Company": "네이버",
+      "Count": 1,
+      "Average_Sentiment": 0.0,
+      "Categories": [
+        "AI",
+        "게임",
+        "반도체",
+        "방산",
+        "원전",
+        "인터넷",
+        "전력",
+        "조선",
+        "플랫폼"
+      ]
+    },
+    {
+      "Company": "SK하이닉스",
+      "Count": 1,
+      "Average_Sentiment": 0.0,
+      "Categories": [
+        "AI",
+        "게임",
+        "반도체",
+        "방산",
+        "원전",
+        "인터넷",
+        "전력",
+        "조선",
+        "플랫폼"
+      ]
+    },
+    {
+      "Company": "창신메모리테크놀로지",
+      "Count": 1,
+      "Average_Sentiment": 0.0,
+      "Categories": [
+        "AI",
+        "게임",
+        "반도체",
+        "방산",
+        "원전",
+        "인터넷",
+        "전력",
+        "조선",
+        "플랫폼"
+      ]
+    },
+    {
+      "Company": "에르메스",
+      "Count": 1,
+      "Average_Sentiment": -1.0,
+      "Categories": ["경제", "명품", "환율"]
+    },
+    {
+      "Company": "LVMH",
+      "Count": 1,
+      "Average_Sentiment": -1.0,
+      "Categories": ["경제", "명품", "환율"]
+    },
+    {
+      "Company": "루이비통",
+      "Count": 1,
+      "Average_Sentiment": -1.0,
+      "Categories": ["경제", "명품", "환율"]
+    },
+    {
+      "Company": "샤넬",
+      "Count": 1,
+      "Average_Sentiment": -1.0,
+      "Categories": ["경제", "명품", "환율"]
+    },
+    {
+      "Company": "구찌",
+      "Count": 1,
+      "Average_Sentiment": -1.0,
+      "Categories": ["경제", "명품", "환율"]
+    },
+    {
+      "Company": "프라다",
+      "Count": 1,
+      "Average_Sentiment": -1.0,
+      "Categories": ["경제", "명품", "환율"]
+    },
+    {
+      "Company": "태그호이어",
+      "Count": 1,
+      "Average_Sentiment": -1.0,
+      "Categories": ["경제", "명품", "환율"]
+    },
+    {
+      "Company": "롤렉스",
+      "Count": 1,
+      "Average_Sentiment": -1.0,
+      "Categories": ["경제", "명품", "환율"]
+    },
+    {
+      "Company": "중앙일보",
+      "Count": 1,
+      "Average_Sentiment": 0.0,
+      "Categories": ["경제"]
+    },
+    {
+      "Company": "한국수출입은행",
+      "Count": 1,
+      "Average_Sentiment": -1.0,
+      "Categories": ["경제", "무역", "산업", "수출입", "정치 리스크"]
+    },
+    {
+      "Company": "한국은행",
+      "Count": 1,
+      "Average_Sentiment": 0.0,
+      "Categories": ["경제", "금융", "부동산"]
+    },
+    {
+      "Company": "우리은행",
+      "Count": 1,
+      "Average_Sentiment": 0.0,
+      "Categories": ["경제", "금융", "부동산"]
+    },
+    {
+      "Company": "NH농협은행",
+      "Count": 1,
+      "Average_Sentiment": 0.0,
+      "Categories": ["경제", "금융", "부동산"]
+    },
+    {
+      "Company": "부동산114",
+      "Count": 1,
+      "Average_Sentiment": 0.0,
+      "Categories": ["경제", "금융", "부동산"]
+    },
+    {
+      "Company": "한국건설산업연구원",
+      "Count": 1,
+      "Average_Sentiment": 0.0,
+      "Categories": ["경제", "금융", "부동산"]
+    }
+  ],
+  "장중": [
+    {
+      "Company": "한국은행",
+      "Count": 2,
+      "Average_Sentiment": -0.5,
+      "Categories": ["경제", "금융"]
+    },
+    {
+      "Company": "국제통화기금",
+      "Count": 1,
+      "Average_Sentiment": -1.0,
+      "Categories": ["경제", "금융"]
+    },
+    {
+      "Company": "경제협력개발기구",
+      "Count": 1,
+      "Average_Sentiment": -1.0,
+      "Categories": ["경제", "금융"]
+    },
+    {
+      "Company": "제주항공",
+      "Count": 1,
+      "Average_Sentiment": 0.0,
+      "Categories": [
+        "2차전지",
+        "경제정책",
+        "금융",
+        "반도체",
+        "부동산",
+        "석유화학",
+        "제조업",
+        "조선업",
+        "통상환경"
+      ]
+    },
+    {
+      "Company": "중앙일보",
+      "Count": 1,
+      "Average_Sentiment": 0.0,
+      "Categories": [
+        "2차전지",
+        "경제정책",
+        "금융",
+        "반도체",
+        "부동산",
+        "석유화학",
+        "제조업",
+        "조선업",
+        "통상환경"
+      ]
+    },
+    {
+      "Company": "기획재정부",
+      "Count": 1,
+      "Average_Sentiment": 0.0,
+      "Categories": [
+        "2차전지",
+        "경제정책",
+        "금융",
+        "반도체",
+        "부동산",
+        "석유화학",
+        "제조업",
+        "조선업",
+        "통상환경"
+      ]
+    },
+    {
+      "Company": "산업은행",
+      "Count": 1,
+      "Average_Sentiment": 0.0,
+      "Categories": [
+        "2차전지",
+        "경제정책",
+        "금융",
+        "반도체",
+        "부동산",
+        "석유화학",
+        "제조업",
+        "조선업",
+        "통상환경"
+      ]
+    },
+    {
+      "Company": "한국부동산원",
+      "Count": 1,
+      "Average_Sentiment": -1.0,
+      "Categories": ["경제", "부동산"]
+    },
+    {
+      "Company": "BYD",
+      "Count": 1,
+      "Average_Sentiment": 1.0,
+      "Categories": ["Automotive Industry", "Electric Vehicles"]
+    },
+    {
+      "Company": "Tesla",
+      "Count": 1,
+      "Average_Sentiment": 1.0,
+      "Categories": ["Automotive Industry", "Electric Vehicles"]
+    },
+    {
+      "Company": "Nissan",
+      "Count": 1,
+      "Average_Sentiment": 1.0,
+      "Categories": ["Automotive Industry", "Electric Vehicles"]
+    },
+    {
+      "Company": "Volkswagen",
+      "Count": 1,
+      "Average_Sentiment": 1.0,
+      "Categories": ["Automotive Industry", "Electric Vehicles"]
+    },
+    {
+      "Company": "Honda",
+      "Count": 1,
+      "Average_Sentiment": 1.0,
+      "Categories": ["Automotive Industry", "Electric Vehicles"]
+    }
+  ],
+  "장후": [
+    {
+      "Company": "삼성전자",
+      "Count": 8,
+      "Average_Sentiment": -0.25,
+      "Categories": [
+        "AI",
+        "D램",
+        "HBM",
+        "IT/과학",
+        "경제",
+        "금융",
+        "낸드 메모리",
+        "메모리",
+        "무역",
+        "바이오헬스",
+        "반도체",
+        "석유화학",
+        "수소연료전지",
+        "수출",
+        "암호화폐",
+        "에너지 솔루션",
+        "원전",
+        "자동차",
+        "자본시장",
+        "전자소재",
+        "정보기술",
+        "조선",
+        "증권",
+        "통상정책",
+        "파생상품"
+      ]
+    },
+    {
+      "Company": "SK하이닉스",
+      "Count": 4,
+      "Average_Sentiment": -0.25,
+      "Categories": [
+        "D램",
+        "HBM",
+        "낸드 메모리",
+        "메모리",
+        "무역",
+        "바이오헬스",
+        "반도체",
+        "석유화학",
+        "수출",
+        "암호화폐",
+        "자동차",
+        "자본시장",
+        "정보기술",
+        "증권",
+        "통상정책",
+        "파생상품"
+      ]
+    },
+    {
+      "Company": "제주항공",
+      "Count": 3,
+      "Average_Sentiment": -1.0,
+      "Categories": ["사고 조사", "안전", "항공"]
+    },
+    {
+      "Company": "현대자동차",
+      "Count": 3,
+      "Average_Sentiment": -0.3333,
+      "Categories": [
+        "경제",
+        "금융",
+        "무역",
+        "바이오헬스",
+        "반도체",
+        "석유화학",
+        "수출",
+        "자동차",
+        "정보기술",
+        "통상정책"
+      ]
+    },
+    {
+      "Company": "LG전자",
+      "Count": 2,
+      "Average_Sentiment": 0.0,
+      "Categories": ["IT/과학", "경제"]
+    },
+    {
+      "Company": "보잉",
+      "Count": 2,
+      "Average_Sentiment": -1.0,
+      "Categories": ["사고 조사", "안전", "항공"]
+    },
+    {
+      "Company": "KB국민은행",
+      "Count": 2,
+      "Average_Sentiment": 0.0,
+      "Categories": ["금리", "금융", "대출"]
+    },
+    {
+      "Company": "신한은행",
+      "Count": 2,
+      "Average_Sentiment": -0.5,
+      "Categories": ["경제", "금리", "금융", "대출", "외환시장"]
+    },
+    {
+      "Company": "하나은행",
+      "Count": 2,
+      "Average_Sentiment": -0.5,
+      "Categories": ["경제", "금리", "금융", "대출", "외환시장"]
+    },
+    {
+      "Company": "한국은행",
+      "Count": 2,
+      "Average_Sentiment": -0.5,
+      "Categories": ["경제", "고용", "금융", "노동시장", "외환시장"]
+    },
+    {
+      "Company": "인텔",
+      "Count": 1,
+      "Average_Sentiment": 0.0,
+      "Categories": ["IT/과학", "경제"]
+    },
+    {
+      "Company": "SK그룹",
+      "Count": 1,
+      "Average_Sentiment": 0.0,
+      "Categories": [
+        "AI",
+        "경제",
+        "반도체",
+        "수소연료전지",
+        "에너지 솔루션",
+        "원전",
+        "전자소재",
+        "조선"
+      ]
+    },
+    {
+      "Company": "현대그룹",
+      "Count": 1,
+      "Average_Sentiment": 0.0,
+      "Categories": [
+        "AI",
+        "경제",
+        "반도체",
+        "수소연료전지",
+        "에너지 솔루션",
+        "원전",
+        "전자소재",
+        "조선"
+      ]
+    },
+    {
+      "Company": "GS그룹",
+      "Count": 1,
+      "Average_Sentiment": 0.0,
+      "Categories": [
+        "AI",
+        "경제",
+        "반도체",
+        "수소연료전지",
+        "에너지 솔루션",
+        "원전",
+        "전자소재",
+        "조선"
+      ]
+    },
+    {
+      "Company": "두산그룹",
+      "Count": 1,
+      "Average_Sentiment": 0.0,
+      "Categories": [
+        "AI",
+        "경제",
+        "반도체",
+        "수소연료전지",
+        "에너지 솔루션",
+        "원전",
+        "전자소재",
+        "조선"
+      ]
+    },
+    {
+      "Company": "현대백화점그룹",
+      "Count": 1,
+      "Average_Sentiment": 0.0,
+      "Categories": [
+        "AI",
+        "경제",
+        "반도체",
+        "수소연료전지",
+        "에너지 솔루션",
+        "원전",
+        "전자소재",
+        "조선"
+      ]
+    },
+    {
+      "Company": "마이크론",
+      "Count": 1,
+      "Average_Sentiment": -1.0,
+      "Categories": ["D램", "HBM", "낸드 메모리", "메모리", "반도체"]
+    },
+    {
+      "Company": "한화정밀기계",
+      "Count": 1,
+      "Average_Sentiment": -1.0,
+      "Categories": ["D램", "HBM", "낸드 메모리", "메모리", "반도체"]
+    },
+    {
+      "Company": "한미반도체",
+      "Count": 1,
+      "Average_Sentiment": -1.0,
+      "Categories": ["D램", "HBM", "낸드 메모리", "메모리", "반도체"]
+    },
+    {
+      "Company": "창신메모리",
+      "Count": 1,
+      "Average_Sentiment": -1.0,
+      "Categories": ["D램", "HBM", "낸드 메모리", "메모리", "반도체"]
+    },
+    {
+      "Company": "LG디스플레이",
+      "Count": 1,
+      "Average_Sentiment": 1.0,
+      "Categories": [
+        "무역",
+        "바이오헬스",
+        "반도체",
+        "석유화학",
+        "수출",
+        "자동차",
+        "정보기술"
+      ]
+    },
+    {
+      "Company": "삼성SDI",
+      "Count": 1,
+      "Average_Sentiment": 1.0,
+      "Categories": [
+        "무역",
+        "바이오헬스",
+        "반도체",
+        "석유화학",
+        "수출",
+        "자동차",
+        "정보기술"
+      ]
+    },
+    {
+      "Company": "우리은행",
+      "Count": 1,
+      "Average_Sentiment": -1.0,
+      "Categories": ["금리", "금융", "대출"]
+    },
+    {
+      "Company": "NH농협은행",
+      "Count": 1,
+      "Average_Sentiment": -1.0,
+      "Categories": ["금리", "금융", "대출"]
+    },
+    {
+      "Company": "테슬라",
+      "Count": 1,
+      "Average_Sentiment": 0.0,
+      "Categories": [
+        "데이터 분석",
+        "소프트웨어",
+        "인공지능",
+        "자율주행",
+        "전기차",
+        "주식",
+        "투자"
+      ]
+    },
+    {
+      "Company": "팔란티어 테크놀로지스",
+      "Count": 1,
+      "Average_Sentiment": 0.0,
+      "Categories": [
+        "데이터 분석",
+        "소프트웨어",
+        "인공지능",
+        "자율주행",
+        "전기차",
+        "주식",
+        "투자"
+      ]
+    },
+    {
+      "Company": "넷플릭스",
+      "Count": 1,
+      "Average_Sentiment": 0.0,
+      "Categories": [
+        "데이터 분석",
+        "소프트웨어",
+        "인공지능",
+        "자율주행",
+        "전기차",
+        "주식",
+        "투자"
+      ]
+    },
+    {
+      "Company": "중앙그룹",
+      "Count": 1,
+      "Average_Sentiment": 0.0,
+      "Categories": [
+        "뉴스",
+        "드라마",
+        "레저",
+        "미디어",
+        "스포츠 중계",
+        "엔터테인먼트",
+        "영화"
+      ]
+    },
+    {
+      "Company": "삼성SDS",
+      "Count": 1,
+      "Average_Sentiment": 1.0,
+      "Categories": [
+        "IT 서비스",
+        "IT아웃소싱(ITO)",
+        "매니지드 클라우드 서비스(MSP)",
+        "시스템통합(SI)",
+        "인공지능(AI)",
+        "클라우드 서비스",
+        "퍼블릭 클라우드 서비스(CSP)"
+      ]
+    },
+    {
+      "Company": "아마존웹서비스",
+      "Count": 1,
+      "Average_Sentiment": 1.0,
+      "Categories": [
+        "IT 서비스",
+        "IT아웃소싱(ITO)",
+        "매니지드 클라우드 서비스(MSP)",
+        "시스템통합(SI)",
+        "인공지능(AI)",
+        "클라우드 서비스",
+        "퍼블릭 클라우드 서비스(CSP)"
+      ]
+    },
+    {
+      "Company": "마이크로소프트",
+      "Count": 1,
+      "Average_Sentiment": 1.0,
+      "Categories": [
+        "IT 서비스",
+        "IT아웃소싱(ITO)",
+        "매니지드 클라우드 서비스(MSP)",
+        "시스템통합(SI)",
+        "인공지능(AI)",
+        "클라우드 서비스",
+        "퍼블릭 클라우드 서비스(CSP)"
+      ]
+    },
+    {
+      "Company": "구글",
+      "Count": 1,
+      "Average_Sentiment": 1.0,
+      "Categories": [
+        "IT 서비스",
+        "IT아웃소싱(ITO)",
+        "매니지드 클라우드 서비스(MSP)",
+        "시스템통합(SI)",
+        "인공지능(AI)",
+        "클라우드 서비스",
+        "퍼블릭 클라우드 서비스(CSP)"
+      ]
+    },
+    {
+      "Company": "대한항공",
+      "Count": 1,
+      "Average_Sentiment": 1.0,
+      "Categories": [
+        "IT 서비스",
+        "IT아웃소싱(ITO)",
+        "매니지드 클라우드 서비스(MSP)",
+        "시스템통합(SI)",
+        "인공지능(AI)",
+        "클라우드 서비스",
+        "퍼블릭 클라우드 서비스(CSP)"
+      ]
+    },
+    {
+      "Company": "한화생명",
+      "Count": 1,
+      "Average_Sentiment": 1.0,
+      "Categories": [
+        "IT 서비스",
+        "IT아웃소싱(ITO)",
+        "매니지드 클라우드 서비스(MSP)",
+        "시스템통합(SI)",
+        "인공지능(AI)",
+        "클라우드 서비스",
+        "퍼블릭 클라우드 서비스(CSP)"
+      ]
+    },
+    {
+      "Company": "메가존클라우드",
+      "Count": 1,
+      "Average_Sentiment": 1.0,
+      "Categories": [
+        "IT 서비스",
+        "IT아웃소싱(ITO)",
+        "매니지드 클라우드 서비스(MSP)",
+        "시스템통합(SI)",
+        "인공지능(AI)",
+        "클라우드 서비스",
+        "퍼블릭 클라우드 서비스(CSP)"
+      ]
+    },
+    {
+      "Company": "베스핀글로벌",
+      "Count": 1,
+      "Average_Sentiment": 1.0,
+      "Categories": [
+        "IT 서비스",
+        "IT아웃소싱(ITO)",
+        "매니지드 클라우드 서비스(MSP)",
+        "시스템통합(SI)",
+        "인공지능(AI)",
+        "클라우드 서비스",
+        "퍼블릭 클라우드 서비스(CSP)"
+      ]
+    },
+    {
+      "Company": "LG CNS",
+      "Count": 1,
+      "Average_Sentiment": 1.0,
+      "Categories": [
+        "IT 서비스",
+        "IT아웃소싱(ITO)",
+        "매니지드 클라우드 서비스(MSP)",
+        "시스템통합(SI)",
+        "인공지능(AI)",
+        "클라우드 서비스",
+        "퍼블릭 클라우드 서비스(CSP)"
+      ]
+    },
+    {
+      "Company": "SK C&C",
+      "Count": 1,
+      "Average_Sentiment": 1.0,
+      "Categories": [
+        "IT 서비스",
+        "IT아웃소싱(ITO)",
+        "매니지드 클라우드 서비스(MSP)",
+        "시스템통합(SI)",
+        "인공지능(AI)",
+        "클라우드 서비스",
+        "퍼블릭 클라우드 서비스(CSP)"
+      ]
+    },
+    {
+      "Company": "KB금융그룹",
+      "Count": 1,
+      "Average_Sentiment": -1.0,
+      "Categories": ["금융"]
+    },
+    {
+      "Company": "신한금융그룹",
+      "Count": 1,
+      "Average_Sentiment": -1.0,
+      "Categories": ["금융"]
+    },
+    {
+      "Company": "하나금융그룹",
+      "Count": 1,
+      "Average_Sentiment": -1.0,
+      "Categories": ["금융"]
+    },
+    {
+      "Company": "우리금융그룹",
+      "Count": 1,
+      "Average_Sentiment": -1.0,
+      "Categories": ["금융"]
+    },
+    {
+      "Company": "SPC그룹",
+      "Count": 1,
+      "Average_Sentiment": 1.0,
+      "Categories": ["경제"]
+    },
+    {
+      "Company": "한국노동연구원",
+      "Count": 1,
+      "Average_Sentiment": -1.0,
+      "Categories": ["경제", "고용", "노동시장"]
+    },
+    {
+      "Company": "한국고용정보원",
+      "Count": 1,
+      "Average_Sentiment": -1.0,
+      "Categories": ["경제", "고용", "노동시장"]
+    },
+    {
+      "Company": "SK",
+      "Count": 1,
+      "Average_Sentiment": -1.0,
+      "Categories": ["경제", "금융"]
+    },
+    {
+      "Company": "LG",
+      "Count": 1,
+      "Average_Sentiment": -1.0,
+      "Categories": ["경제", "금융"]
+    },
+    {
+      "Company": "포스코",
+      "Count": 1,
+      "Average_Sentiment": -1.0,
+      "Categories": ["경제", "금융"]
+    },
+    {
+      "Company": "롯데",
+      "Count": 1,
+      "Average_Sentiment": -1.0,
+      "Categories": ["경제", "금융"]
+    },
+    {
+      "Company": "한화",
+      "Count": 1,
+      "Average_Sentiment": -1.0,
+      "Categories": ["경제", "금융"]
+    },
+    {
+      "Company": "GS",
+      "Count": 1,
+      "Average_Sentiment": -1.0,
+      "Categories": ["경제", "금융"]
+    },
+    {
+      "Company": "한국무역협회",
+      "Count": 1,
+      "Average_Sentiment": -1.0,
+      "Categories": ["경제", "금융"]
+    },
+    {
+      "Company": "대한상공회의소",
+      "Count": 1,
+      "Average_Sentiment": -1.0,
+      "Categories": ["경제", "금융"]
+    },
+    {
+      "Company": "롯데그룹",
+      "Count": 1,
+      "Average_Sentiment": -1.0,
+      "Categories": ["글로벌 사업", "스페셜티 시장", "식품", "유통", "인공지능"]
+    },
+    {
+      "Company": "CJ그룹",
+      "Count": 1,
+      "Average_Sentiment": -1.0,
+      "Categories": ["글로벌 사업", "스페셜티 시장", "식품", "유통", "인공지능"]
+    },
+    {
+      "Company": "신세계그룹",
+      "Count": 1,
+      "Average_Sentiment": -1.0,
+      "Categories": ["글로벌 사업", "스페셜티 시장", "식품", "유통", "인공지능"]
+    },
+    {
+      "Company": "삼양그룹",
+      "Count": 1,
+      "Average_Sentiment": -1.0,
+      "Categories": ["글로벌 사업", "스페셜티 시장", "식품", "유통", "인공지능"]
+    },
+    {
+      "Company": "제네시스BBQ",
+      "Count": 1,
+      "Average_Sentiment": -1.0,
+      "Categories": ["글로벌 사업", "스페셜티 시장", "식품", "유통", "인공지능"]
+    },
+    {
+      "Company": "삼성바이오로직스",
+      "Count": 1,
+      "Average_Sentiment": 0.0,
+      "Categories": ["수출", "암호화폐", "자본시장", "증권", "파생상품"]
+    },
+    {
+      "Company": "셀트리온",
+      "Count": 1,
+      "Average_Sentiment": 0.0,
+      "Categories": ["수출", "암호화폐", "자본시장", "증권", "파생상품"]
+    },
+    {
+      "Company": "네이버",
+      "Count": 1,
+      "Average_Sentiment": 0.0,
+      "Categories": ["수출", "암호화폐", "자본시장", "증권", "파생상품"]
+    },
+    {
+      "Company": "한국부동산원",
+      "Count": 1,
+      "Average_Sentiment": -1.0,
+      "Categories": ["경제", "부동산"]
+    },
+    {
+      "Company": "한국공항공사",
+      "Count": 1,
+      "Average_Sentiment": -1.0,
+      "Categories": ["사고 조사", "안전", "항공"]
+    },
+    {
+      "Company": "하나금융지주",
+      "Count": 1,
+      "Average_Sentiment": 1.0,
+      "Categories": ["금융"]
+    },
+    {
+      "Company": "현대중공업",
+      "Count": 1,
+      "Average_Sentiment": 1.0,
+      "Categories": ["금융", "조선업", "친환경 기술"]
+    },
+    {
+      "Company": "한국조선해양",
+      "Count": 1,
+      "Average_Sentiment": 1.0,
+      "Categories": ["금융", "조선업", "친환경 기술"]
+    },
+    {
+      "Company": "한화오션",
+      "Count": 1,
+      "Average_Sentiment": 1.0,
+      "Categories": ["금융", "조선업", "친환경 기술"]
+    },
+    {
+      "Company": "삼성중공업",
+      "Count": 1,
+      "Average_Sentiment": 1.0,
+      "Categories": ["금융", "조선업", "친환경 기술"]
+    },
+    {
+      "Company": "국민연금공단",
+      "Count": 1,
+      "Average_Sentiment": 0.0,
+      "Categories": ["경제", "금융", "외환시장"]
+    }
+  ]
+}

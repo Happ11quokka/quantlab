@@ -1,0 +1,1773 @@
+{
+  "장전": [
+    {
+      "Company": "삼성전자",
+      "Count": 3,
+      "Average_Sentiment": 0.0,
+      "Categories": [
+        "AI",
+        "게임",
+        "경제",
+        "로봇",
+        "반도체",
+        "방산",
+        "빅테크",
+        "원전",
+        "인공지능",
+        "인터넷",
+        "전력",
+        "조선",
+        "투자",
+        "플랫폼"
+      ],
+      "Official_Company": "삼성전자",
+      "Stock_Code": "005930"
+    },
+    {
+      "Company": "제주항공",
+      "Count": 3,
+      "Average_Sentiment": -0.3333,
+      "Categories": [
+        "경제",
+        "기부",
+        "사회복지",
+        "재난",
+        "재해구호",
+        "항공"
+      ],
+      "Official_Company": "제주항공",
+      "Stock_Code": "089590"
+    },
+    {
+      "Company": "한국무역협회",
+      "Count": 2,
+      "Average_Sentiment": -1.0,
+      "Categories": [
+        "경제",
+        "무역",
+        "산업",
+        "수출입",
+        "정치 리스크"
+      ],
+      "Official_Company": "Not Listed",
+      "Stock_Code": "Not Listed"
+    },
+    {
+      "Company": "대한상공회의소",
+      "Count": 2,
+      "Average_Sentiment": -1.0,
+      "Categories": [
+        "경제",
+        "무역",
+        "산업",
+        "수출입",
+        "정치 리스크"
+      ],
+      "Official_Company": "Not Listed",
+      "Stock_Code": "Not Listed"
+    },
+    {
+      "Company": "SK그룹",
+      "Count": 2,
+      "Average_Sentiment": -1.0,
+      "Categories": [
+        "경제",
+        "무역",
+        "산업",
+        "수출입",
+        "정치 리스크"
+      ],
+      "Official_Company": "Not Listed",
+      "Stock_Code": "Not Listed"
+    },
+    {
+      "Company": "CJ그룹",
+      "Count": 2,
+      "Average_Sentiment": 0.0,
+      "Categories": [
+        "경제",
+        "기부",
+        "사회복지",
+        "재해구호"
+      ],
+      "Official_Company": "Not Listed",
+      "Stock_Code": "Not Listed"
+    },
+    {
+      "Company": "레인보우로보틱스",
+      "Count": 1,
+      "Average_Sentiment": 1.0,
+      "Categories": [
+        "로봇",
+        "빅테크",
+        "인공지능",
+        "투자"
+      ],
+      "Official_Company": "레인보우로보틱스",
+      "Stock_Code": "277810"
+    },
+    {
+      "Company": "엔비디아",
+      "Count": 1,
+      "Average_Sentiment": 1.0,
+      "Categories": [
+        "로봇",
+        "빅테크",
+        "인공지능",
+        "투자"
+      ],
+      "Official_Company": "Not Listed",
+      "Stock_Code": "Not Listed"
+    },
+    {
+      "Company": "오픈AI",
+      "Count": 1,
+      "Average_Sentiment": 1.0,
+      "Categories": [
+        "로봇",
+        "빅테크",
+        "인공지능",
+        "투자"
+      ],
+      "Official_Company": "Not Listed",
+      "Stock_Code": "Not Listed"
+    },
+    {
+      "Company": "테슬라",
+      "Count": 1,
+      "Average_Sentiment": 1.0,
+      "Categories": [
+        "로봇",
+        "빅테크",
+        "인공지능",
+        "투자"
+      ],
+      "Official_Company": "Not Listed",
+      "Stock_Code": "Not Listed"
+    },
+    {
+      "Company": "한국경영자총협회",
+      "Count": 1,
+      "Average_Sentiment": -1.0,
+      "Categories": [
+        "경제"
+      ],
+      "Official_Company": "Not Listed",
+      "Stock_Code": "Not Listed"
+    },
+    {
+      "Company": "현대자동차",
+      "Count": 1,
+      "Average_Sentiment": -1.0,
+      "Categories": [
+        "경제"
+      ],
+      "Official_Company": "현대차",
+      "Stock_Code": "005380"
+    },
+    {
+      "Company": "LG그룹",
+      "Count": 1,
+      "Average_Sentiment": -1.0,
+      "Categories": [
+        "경제"
+      ],
+      "Official_Company": "Not Listed",
+      "Stock_Code": "Not Listed"
+    },
+    {
+      "Company": "롯데물산",
+      "Count": 1,
+      "Average_Sentiment": -1.0,
+      "Categories": [
+        "경제"
+      ],
+      "Official_Company": "Not Listed",
+      "Stock_Code": "Not Listed"
+    },
+    {
+      "Company": "롯데월드",
+      "Count": 1,
+      "Average_Sentiment": -1.0,
+      "Categories": [
+        "경제"
+      ],
+      "Official_Company": "Not Listed",
+      "Stock_Code": "Not Listed"
+    },
+    {
+      "Company": "신세계백화점",
+      "Count": 1,
+      "Average_Sentiment": -1.0,
+      "Categories": [
+        "경제"
+      ],
+      "Official_Company": "Not Listed",
+      "Stock_Code": "Not Listed"
+    },
+    {
+      "Company": "삼천리그룹",
+      "Count": 1,
+      "Average_Sentiment": 1.0,
+      "Categories": [
+        "기부",
+        "사회복지",
+        "재해구호"
+      ],
+      "Official_Company": "Not Listed",
+      "Stock_Code": "Not Listed"
+    },
+    {
+      "Company": "낙월블루하트",
+      "Count": 1,
+      "Average_Sentiment": 1.0,
+      "Categories": [
+        "기부",
+        "사회복지",
+        "재해구호"
+      ],
+      "Official_Company": "Not Listed",
+      "Stock_Code": "Not Listed"
+    },
+    {
+      "Company": "BNP Paribas",
+      "Count": 1,
+      "Average_Sentiment": -1.0,
+      "Categories": [
+        "경제 전망",
+        "외환보유액",
+        "외환시장",
+        "환율"
+      ],
+      "Official_Company": "Not Listed",
+      "Stock_Code": "Not Listed"
+    },
+    {
+      "Company": "Standard Chartered",
+      "Count": 1,
+      "Average_Sentiment": -1.0,
+      "Categories": [
+        "경제 전망",
+        "외환보유액",
+        "외환시장",
+        "환율"
+      ],
+      "Official_Company": "Not Listed",
+      "Stock_Code": "Not Listed"
+    },
+    {
+      "Company": "Nomura",
+      "Count": 1,
+      "Average_Sentiment": -1.0,
+      "Categories": [
+        "경제 전망",
+        "외환보유액",
+        "외환시장",
+        "환율"
+      ],
+      "Official_Company": "Not Listed",
+      "Stock_Code": "Not Listed"
+    },
+    {
+      "Company": "Korea Development Institute",
+      "Count": 1,
+      "Average_Sentiment": -1.0,
+      "Categories": [
+        "경제 전망",
+        "외환보유액",
+        "외환시장",
+        "환율"
+      ],
+      "Official_Company": "Not Listed",
+      "Stock_Code": "Not Listed"
+    },
+    {
+      "Company": "Korea Institute for International Economic Policy",
+      "Count": 1,
+      "Average_Sentiment": -1.0,
+      "Categories": [
+        "경제 전망",
+        "외환보유액",
+        "외환시장",
+        "환율"
+      ],
+      "Official_Company": "Not Listed",
+      "Stock_Code": "Not Listed"
+    },
+    {
+      "Company": "CJ푸드빌",
+      "Count": 1,
+      "Average_Sentiment": 1.0,
+      "Categories": [
+        "경제"
+      ],
+      "Official_Company": "Not Listed",
+      "Stock_Code": "Not Listed"
+    },
+    {
+      "Company": "메리츠증권",
+      "Count": 1,
+      "Average_Sentiment": 0.0,
+      "Categories": [
+        "AI",
+        "게임",
+        "반도체",
+        "방산",
+        "원전",
+        "인터넷",
+        "전력",
+        "조선",
+        "플랫폼"
+      ],
+      "Official_Company": "메리츠증권",
+      "Stock_Code": "Not Listed"
+    },
+    {
+      "Company": "미래에셋증권",
+      "Count": 1,
+      "Average_Sentiment": 0.0,
+      "Categories": [
+        "AI",
+        "게임",
+        "반도체",
+        "방산",
+        "원전",
+        "인터넷",
+        "전력",
+        "조선",
+        "플랫폼"
+      ],
+      "Official_Company": "미래에셋증권",
+      "Stock_Code": "006800"
+    },
+    {
+      "Company": "신영증권",
+      "Count": 1,
+      "Average_Sentiment": 0.0,
+      "Categories": [
+        "AI",
+        "게임",
+        "반도체",
+        "방산",
+        "원전",
+        "인터넷",
+        "전력",
+        "조선",
+        "플랫폼"
+      ],
+      "Official_Company": "Not Listed",
+      "Stock_Code": "Not Listed"
+    },
+    {
+      "Company": "한국투자증권",
+      "Count": 1,
+      "Average_Sentiment": 0.0,
+      "Categories": [
+        "AI",
+        "게임",
+        "반도체",
+        "방산",
+        "원전",
+        "인터넷",
+        "전력",
+        "조선",
+        "플랫폼"
+      ],
+      "Official_Company": "Not Listed",
+      "Stock_Code": "Not Listed"
+    },
+    {
+      "Company": "KB증권",
+      "Count": 1,
+      "Average_Sentiment": 0.0,
+      "Categories": [
+        "AI",
+        "게임",
+        "반도체",
+        "방산",
+        "원전",
+        "인터넷",
+        "전력",
+        "조선",
+        "플랫폼"
+      ],
+      "Official_Company": "Not Listed",
+      "Stock_Code": "Not Listed"
+    },
+    {
+      "Company": "네이버",
+      "Count": 1,
+      "Average_Sentiment": 0.0,
+      "Categories": [
+        "AI",
+        "게임",
+        "반도체",
+        "방산",
+        "원전",
+        "인터넷",
+        "전력",
+        "조선",
+        "플랫폼"
+      ],
+      "Official_Company": "네이버엠앤드에프홀딩스",
+      "Stock_Code": "Not Listed"
+    },
+    {
+      "Company": "SK하이닉스",
+      "Count": 1,
+      "Average_Sentiment": 0.0,
+      "Categories": [
+        "AI",
+        "게임",
+        "반도체",
+        "방산",
+        "원전",
+        "인터넷",
+        "전력",
+        "조선",
+        "플랫폼"
+      ],
+      "Official_Company": "SK하이닉스",
+      "Stock_Code": "000660"
+    },
+    {
+      "Company": "창신메모리테크놀로지",
+      "Count": 1,
+      "Average_Sentiment": 0.0,
+      "Categories": [
+        "AI",
+        "게임",
+        "반도체",
+        "방산",
+        "원전",
+        "인터넷",
+        "전력",
+        "조선",
+        "플랫폼"
+      ],
+      "Official_Company": "Not Listed",
+      "Stock_Code": "Not Listed"
+    },
+    {
+      "Company": "에르메스",
+      "Count": 1,
+      "Average_Sentiment": -1.0,
+      "Categories": [
+        "경제",
+        "명품",
+        "환율"
+      ],
+      "Official_Company": "Not Listed",
+      "Stock_Code": "Not Listed"
+    },
+    {
+      "Company": "LVMH",
+      "Count": 1,
+      "Average_Sentiment": -1.0,
+      "Categories": [
+        "경제",
+        "명품",
+        "환율"
+      ],
+      "Official_Company": "Not Listed",
+      "Stock_Code": "Not Listed"
+    },
+    {
+      "Company": "루이비통",
+      "Count": 1,
+      "Average_Sentiment": -1.0,
+      "Categories": [
+        "경제",
+        "명품",
+        "환율"
+      ],
+      "Official_Company": "Not Listed",
+      "Stock_Code": "Not Listed"
+    },
+    {
+      "Company": "샤넬",
+      "Count": 1,
+      "Average_Sentiment": -1.0,
+      "Categories": [
+        "경제",
+        "명품",
+        "환율"
+      ],
+      "Official_Company": "Not Listed",
+      "Stock_Code": "Not Listed"
+    },
+    {
+      "Company": "구찌",
+      "Count": 1,
+      "Average_Sentiment": -1.0,
+      "Categories": [
+        "경제",
+        "명품",
+        "환율"
+      ],
+      "Official_Company": "Not Listed",
+      "Stock_Code": "Not Listed"
+    },
+    {
+      "Company": "프라다",
+      "Count": 1,
+      "Average_Sentiment": -1.0,
+      "Categories": [
+        "경제",
+        "명품",
+        "환율"
+      ],
+      "Official_Company": "Not Listed",
+      "Stock_Code": "Not Listed"
+    },
+    {
+      "Company": "태그호이어",
+      "Count": 1,
+      "Average_Sentiment": -1.0,
+      "Categories": [
+        "경제",
+        "명품",
+        "환율"
+      ],
+      "Official_Company": "Not Listed",
+      "Stock_Code": "Not Listed"
+    },
+    {
+      "Company": "롤렉스",
+      "Count": 1,
+      "Average_Sentiment": -1.0,
+      "Categories": [
+        "경제",
+        "명품",
+        "환율"
+      ],
+      "Official_Company": "Not Listed",
+      "Stock_Code": "Not Listed"
+    },
+    {
+      "Company": "중앙일보",
+      "Count": 1,
+      "Average_Sentiment": 0.0,
+      "Categories": [
+        "경제"
+      ],
+      "Official_Company": "Not Listed",
+      "Stock_Code": "Not Listed"
+    },
+    {
+      "Company": "한국수출입은행",
+      "Count": 1,
+      "Average_Sentiment": -1.0,
+      "Categories": [
+        "경제",
+        "무역",
+        "산업",
+        "수출입",
+        "정치 리스크"
+      ],
+      "Official_Company": "Not Listed",
+      "Stock_Code": "Not Listed"
+    },
+    {
+      "Company": "한국은행",
+      "Count": 1,
+      "Average_Sentiment": 0.0,
+      "Categories": [
+        "경제",
+        "금융",
+        "부동산"
+      ],
+      "Official_Company": "Not Listed",
+      "Stock_Code": "Not Listed"
+    },
+    {
+      "Company": "우리은행",
+      "Count": 1,
+      "Average_Sentiment": 0.0,
+      "Categories": [
+        "경제",
+        "금융",
+        "부동산"
+      ],
+      "Official_Company": "우리금융지주",
+      "Stock_Code": "316140"
+    },
+    {
+      "Company": "NH농협은행",
+      "Count": 1,
+      "Average_Sentiment": 0.0,
+      "Categories": [
+        "경제",
+        "금융",
+        "부동산"
+      ],
+      "Official_Company": "Not Listed",
+      "Stock_Code": "Not Listed"
+    },
+    {
+      "Company": "부동산114",
+      "Count": 1,
+      "Average_Sentiment": 0.0,
+      "Categories": [
+        "경제",
+        "금융",
+        "부동산"
+      ],
+      "Official_Company": "Not Listed",
+      "Stock_Code": "Not Listed"
+    },
+    {
+      "Company": "한국건설산업연구원",
+      "Count": 1,
+      "Average_Sentiment": 0.0,
+      "Categories": [
+        "경제",
+        "금융",
+        "부동산"
+      ],
+      "Official_Company": "Not Listed",
+      "Stock_Code": "Not Listed"
+    }
+  ],
+  "장중": [
+    {
+      "Company": "한국은행",
+      "Count": 2,
+      "Average_Sentiment": -0.5,
+      "Categories": [
+        "경제",
+        "금융"
+      ],
+      "Official_Company": "Not Listed",
+      "Stock_Code": "Not Listed"
+    },
+    {
+      "Company": "국제통화기금",
+      "Count": 1,
+      "Average_Sentiment": -1.0,
+      "Categories": [
+        "경제",
+        "금융"
+      ],
+      "Official_Company": "Not Listed",
+      "Stock_Code": "Not Listed"
+    },
+    {
+      "Company": "경제협력개발기구",
+      "Count": 1,
+      "Average_Sentiment": -1.0,
+      "Categories": [
+        "경제",
+        "금융"
+      ],
+      "Official_Company": "Not Listed",
+      "Stock_Code": "Not Listed"
+    },
+    {
+      "Company": "제주항공",
+      "Count": 1,
+      "Average_Sentiment": 0.0,
+      "Categories": [
+        "2차전지",
+        "경제정책",
+        "금융",
+        "반도체",
+        "부동산",
+        "석유화학",
+        "제조업",
+        "조선업",
+        "통상환경"
+      ],
+      "Official_Company": "제주항공",
+      "Stock_Code": "089590"
+    },
+    {
+      "Company": "중앙일보",
+      "Count": 1,
+      "Average_Sentiment": 0.0,
+      "Categories": [
+        "2차전지",
+        "경제정책",
+        "금융",
+        "반도체",
+        "부동산",
+        "석유화학",
+        "제조업",
+        "조선업",
+        "통상환경"
+      ],
+      "Official_Company": "Not Listed",
+      "Stock_Code": "Not Listed"
+    },
+    {
+      "Company": "기획재정부",
+      "Count": 1,
+      "Average_Sentiment": 0.0,
+      "Categories": [
+        "2차전지",
+        "경제정책",
+        "금융",
+        "반도체",
+        "부동산",
+        "석유화학",
+        "제조업",
+        "조선업",
+        "통상환경"
+      ],
+      "Official_Company": "Not Listed",
+      "Stock_Code": "Not Listed"
+    },
+    {
+      "Company": "산업은행",
+      "Count": 1,
+      "Average_Sentiment": 0.0,
+      "Categories": [
+        "2차전지",
+        "경제정책",
+        "금융",
+        "반도체",
+        "부동산",
+        "석유화학",
+        "제조업",
+        "조선업",
+        "통상환경"
+      ],
+      "Official_Company": "Not Listed",
+      "Stock_Code": "Not Listed"
+    },
+    {
+      "Company": "한국부동산원",
+      "Count": 1,
+      "Average_Sentiment": -1.0,
+      "Categories": [
+        "경제",
+        "부동산"
+      ],
+      "Official_Company": "Not Listed",
+      "Stock_Code": "Not Listed"
+    },
+    {
+      "Company": "BYD",
+      "Count": 1,
+      "Average_Sentiment": 1.0,
+      "Categories": [
+        "Automotive Industry",
+        "Electric Vehicles"
+      ],
+      "Official_Company": "Not Listed",
+      "Stock_Code": "Not Listed"
+    },
+    {
+      "Company": "Tesla",
+      "Count": 1,
+      "Average_Sentiment": 1.0,
+      "Categories": [
+        "Automotive Industry",
+        "Electric Vehicles"
+      ],
+      "Official_Company": "Not Listed",
+      "Stock_Code": "Not Listed"
+    },
+    {
+      "Company": "Nissan",
+      "Count": 1,
+      "Average_Sentiment": 1.0,
+      "Categories": [
+        "Automotive Industry",
+        "Electric Vehicles"
+      ],
+      "Official_Company": "Not Listed",
+      "Stock_Code": "Not Listed"
+    },
+    {
+      "Company": "Volkswagen",
+      "Count": 1,
+      "Average_Sentiment": 1.0,
+      "Categories": [
+        "Automotive Industry",
+        "Electric Vehicles"
+      ],
+      "Official_Company": "Not Listed",
+      "Stock_Code": "Not Listed"
+    },
+    {
+      "Company": "Honda",
+      "Count": 1,
+      "Average_Sentiment": 1.0,
+      "Categories": [
+        "Automotive Industry",
+        "Electric Vehicles"
+      ],
+      "Official_Company": "Not Listed",
+      "Stock_Code": "Not Listed"
+    }
+  ],
+  "장후": [
+    {
+      "Company": "삼성전자",
+      "Count": 8,
+      "Average_Sentiment": -0.25,
+      "Categories": [
+        "AI",
+        "D램",
+        "HBM",
+        "IT/과학",
+        "경제",
+        "금융",
+        "낸드 메모리",
+        "메모리",
+        "무역",
+        "바이오헬스",
+        "반도체",
+        "석유화학",
+        "수소연료전지",
+        "수출",
+        "암호화폐",
+        "에너지 솔루션",
+        "원전",
+        "자동차",
+        "자본시장",
+        "전자소재",
+        "정보기술",
+        "조선",
+        "증권",
+        "통상정책",
+        "파생상품"
+      ],
+      "Official_Company": "삼성전자",
+      "Stock_Code": "005930"
+    },
+    {
+      "Company": "SK하이닉스",
+      "Count": 4,
+      "Average_Sentiment": -0.25,
+      "Categories": [
+        "D램",
+        "HBM",
+        "낸드 메모리",
+        "메모리",
+        "무역",
+        "바이오헬스",
+        "반도체",
+        "석유화학",
+        "수출",
+        "암호화폐",
+        "자동차",
+        "자본시장",
+        "정보기술",
+        "증권",
+        "통상정책",
+        "파생상품"
+      ],
+      "Official_Company": "SK하이닉스",
+      "Stock_Code": "000660"
+    },
+    {
+      "Company": "제주항공",
+      "Count": 3,
+      "Average_Sentiment": -1.0,
+      "Categories": [
+        "사고 조사",
+        "안전",
+        "항공"
+      ],
+      "Official_Company": "제주항공",
+      "Stock_Code": "089590"
+    },
+    {
+      "Company": "현대자동차",
+      "Count": 3,
+      "Average_Sentiment": -0.3333,
+      "Categories": [
+        "경제",
+        "금융",
+        "무역",
+        "바이오헬스",
+        "반도체",
+        "석유화학",
+        "수출",
+        "자동차",
+        "정보기술",
+        "통상정책"
+      ],
+      "Official_Company": "현대자동차",
+      "Stock_Code": "Not Listed"
+    },
+    {
+      "Company": "LG전자",
+      "Count": 2,
+      "Average_Sentiment": 0.0,
+      "Categories": [
+        "IT/과학",
+        "경제"
+      ],
+      "Official_Company": "LG에너지솔루션",
+      "Stock_Code": "373220"
+    },
+    {
+      "Company": "보잉",
+      "Count": 2,
+      "Average_Sentiment": -1.0,
+      "Categories": [
+        "사고 조사",
+        "안전",
+        "항공"
+      ],
+      "Official_Company": "Not Listed",
+      "Stock_Code": "Not Listed"
+    },
+    {
+      "Company": "KB국민은행",
+      "Count": 2,
+      "Average_Sentiment": 0.0,
+      "Categories": [
+        "금리",
+        "금융",
+        "대출"
+      ],
+      "Official_Company": "Not Listed",
+      "Stock_Code": "Not Listed"
+    },
+    {
+      "Company": "신한은행",
+      "Count": 2,
+      "Average_Sentiment": -0.5,
+      "Categories": [
+        "경제",
+        "금리",
+        "금융",
+        "대출",
+        "외환시장"
+      ],
+      "Official_Company": "Not Listed",
+      "Stock_Code": "Not Listed"
+    },
+    {
+      "Company": "하나은행",
+      "Count": 2,
+      "Average_Sentiment": -0.5,
+      "Categories": [
+        "경제",
+        "금리",
+        "금융",
+        "대출",
+        "외환시장"
+      ],
+      "Official_Company": "Not Listed",
+      "Stock_Code": "Not Listed"
+    },
+    {
+      "Company": "한국은행",
+      "Count": 2,
+      "Average_Sentiment": -0.5,
+      "Categories": [
+        "경제",
+        "고용",
+        "금융",
+        "노동시장",
+        "외환시장"
+      ],
+      "Official_Company": "Not Listed",
+      "Stock_Code": "Not Listed"
+    },
+    {
+      "Company": "인텔",
+      "Count": 1,
+      "Average_Sentiment": 0.0,
+      "Categories": [
+        "IT/과학",
+        "경제"
+      ],
+      "Official_Company": "Not Listed",
+      "Stock_Code": "Not Listed"
+    },
+    {
+      "Company": "SK그룹",
+      "Count": 1,
+      "Average_Sentiment": 0.0,
+      "Categories": [
+        "AI",
+        "경제",
+        "반도체",
+        "수소연료전지",
+        "에너지 솔루션",
+        "원전",
+        "전자소재",
+        "조선"
+      ],
+      "Official_Company": "Not Listed",
+      "Stock_Code": "Not Listed"
+    },
+    {
+      "Company": "현대그룹",
+      "Count": 1,
+      "Average_Sentiment": 0.0,
+      "Categories": [
+        "AI",
+        "경제",
+        "반도체",
+        "수소연료전지",
+        "에너지 솔루션",
+        "원전",
+        "전자소재",
+        "조선"
+      ],
+      "Official_Company": "Not Listed",
+      "Stock_Code": "Not Listed"
+    },
+    {
+      "Company": "GS그룹",
+      "Count": 1,
+      "Average_Sentiment": 0.0,
+      "Categories": [
+        "AI",
+        "경제",
+        "반도체",
+        "수소연료전지",
+        "에너지 솔루션",
+        "원전",
+        "전자소재",
+        "조선"
+      ],
+      "Official_Company": "Not Listed",
+      "Stock_Code": "Not Listed"
+    },
+    {
+      "Company": "두산그룹",
+      "Count": 1,
+      "Average_Sentiment": 0.0,
+      "Categories": [
+        "AI",
+        "경제",
+        "반도체",
+        "수소연료전지",
+        "에너지 솔루션",
+        "원전",
+        "전자소재",
+        "조선"
+      ],
+      "Official_Company": "Not Listed",
+      "Stock_Code": "Not Listed"
+    },
+    {
+      "Company": "현대백화점그룹",
+      "Count": 1,
+      "Average_Sentiment": 0.0,
+      "Categories": [
+        "AI",
+        "경제",
+        "반도체",
+        "수소연료전지",
+        "에너지 솔루션",
+        "원전",
+        "전자소재",
+        "조선"
+      ],
+      "Official_Company": "현대백화점",
+      "Stock_Code": "069960"
+    },
+    {
+      "Company": "마이크론",
+      "Count": 1,
+      "Average_Sentiment": -1.0,
+      "Categories": [
+        "D램",
+        "HBM",
+        "낸드 메모리",
+        "메모리",
+        "반도체"
+      ],
+      "Official_Company": "Not Listed",
+      "Stock_Code": "Not Listed"
+    },
+    {
+      "Company": "한화정밀기계",
+      "Count": 1,
+      "Average_Sentiment": -1.0,
+      "Categories": [
+        "D램",
+        "HBM",
+        "낸드 메모리",
+        "메모리",
+        "반도체"
+      ],
+      "Official_Company": "Not Listed",
+      "Stock_Code": "Not Listed"
+    },
+    {
+      "Company": "한미반도체",
+      "Count": 1,
+      "Average_Sentiment": -1.0,
+      "Categories": [
+        "D램",
+        "HBM",
+        "낸드 메모리",
+        "메모리",
+        "반도체"
+      ],
+      "Official_Company": "한미반도체",
+      "Stock_Code": "042700"
+    },
+    {
+      "Company": "창신메모리",
+      "Count": 1,
+      "Average_Sentiment": -1.0,
+      "Categories": [
+        "D램",
+        "HBM",
+        "낸드 메모리",
+        "메모리",
+        "반도체"
+      ],
+      "Official_Company": "Not Listed",
+      "Stock_Code": "Not Listed"
+    },
+    {
+      "Company": "LG디스플레이",
+      "Count": 1,
+      "Average_Sentiment": 1.0,
+      "Categories": [
+        "무역",
+        "바이오헬스",
+        "반도체",
+        "석유화학",
+        "수출",
+        "자동차",
+        "정보기술"
+      ],
+      "Official_Company": "엘지디스플레이",
+      "Stock_Code": "228670"
+    },
+    {
+      "Company": "삼성SDI",
+      "Count": 1,
+      "Average_Sentiment": 1.0,
+      "Categories": [
+        "무역",
+        "바이오헬스",
+        "반도체",
+        "석유화학",
+        "수출",
+        "자동차",
+        "정보기술"
+      ],
+      "Official_Company": "삼성에스디아이",
+      "Stock_Code": "003160"
+    },
+    {
+      "Company": "우리은행",
+      "Count": 1,
+      "Average_Sentiment": -1.0,
+      "Categories": [
+        "금리",
+        "금융",
+        "대출"
+      ],
+      "Official_Company": "우리금융지주",
+      "Stock_Code": "316140"
+    },
+    {
+      "Company": "NH농협은행",
+      "Count": 1,
+      "Average_Sentiment": -1.0,
+      "Categories": [
+        "금리",
+        "금융",
+        "대출"
+      ],
+      "Official_Company": "Not Listed",
+      "Stock_Code": "Not Listed"
+    },
+    {
+      "Company": "테슬라",
+      "Count": 1,
+      "Average_Sentiment": 0.0,
+      "Categories": [
+        "데이터 분석",
+        "소프트웨어",
+        "인공지능",
+        "자율주행",
+        "전기차",
+        "주식",
+        "투자"
+      ],
+      "Official_Company": "Not Listed",
+      "Stock_Code": "Not Listed"
+    },
+    {
+      "Company": "팔란티어 테크놀로지스",
+      "Count": 1,
+      "Average_Sentiment": 0.0,
+      "Categories": [
+        "데이터 분석",
+        "소프트웨어",
+        "인공지능",
+        "자율주행",
+        "전기차",
+        "주식",
+        "투자"
+      ],
+      "Official_Company": "Not Listed",
+      "Stock_Code": "Not Listed"
+    },
+    {
+      "Company": "넷플릭스",
+      "Count": 1,
+      "Average_Sentiment": 0.0,
+      "Categories": [
+        "데이터 분석",
+        "소프트웨어",
+        "인공지능",
+        "자율주행",
+        "전기차",
+        "주식",
+        "투자"
+      ],
+      "Official_Company": "Not Listed",
+      "Stock_Code": "Not Listed"
+    },
+    {
+      "Company": "중앙그룹",
+      "Count": 1,
+      "Average_Sentiment": 0.0,
+      "Categories": [
+        "뉴스",
+        "드라마",
+        "레저",
+        "미디어",
+        "스포츠 중계",
+        "엔터테인먼트",
+        "영화"
+      ],
+      "Official_Company": "Not Listed",
+      "Stock_Code": "Not Listed"
+    },
+    {
+      "Company": "삼성SDS",
+      "Count": 1,
+      "Average_Sentiment": 1.0,
+      "Categories": [
+        "IT 서비스",
+        "IT아웃소싱(ITO)",
+        "매니지드 클라우드 서비스(MSP)",
+        "시스템통합(SI)",
+        "인공지능(AI)",
+        "클라우드 서비스",
+        "퍼블릭 클라우드 서비스(CSP)"
+      ],
+      "Official_Company": "Not Listed",
+      "Stock_Code": "Not Listed"
+    },
+    {
+      "Company": "아마존웹서비스",
+      "Count": 1,
+      "Average_Sentiment": 1.0,
+      "Categories": [
+        "IT 서비스",
+        "IT아웃소싱(ITO)",
+        "매니지드 클라우드 서비스(MSP)",
+        "시스템통합(SI)",
+        "인공지능(AI)",
+        "클라우드 서비스",
+        "퍼블릭 클라우드 서비스(CSP)"
+      ],
+      "Official_Company": "Not Listed",
+      "Stock_Code": "Not Listed"
+    },
+    {
+      "Company": "마이크로소프트",
+      "Count": 1,
+      "Average_Sentiment": 1.0,
+      "Categories": [
+        "IT 서비스",
+        "IT아웃소싱(ITO)",
+        "매니지드 클라우드 서비스(MSP)",
+        "시스템통합(SI)",
+        "인공지능(AI)",
+        "클라우드 서비스",
+        "퍼블릭 클라우드 서비스(CSP)"
+      ],
+      "Official_Company": "Not Listed",
+      "Stock_Code": "Not Listed"
+    },
+    {
+      "Company": "구글",
+      "Count": 1,
+      "Average_Sentiment": 1.0,
+      "Categories": [
+        "IT 서비스",
+        "IT아웃소싱(ITO)",
+        "매니지드 클라우드 서비스(MSP)",
+        "시스템통합(SI)",
+        "인공지능(AI)",
+        "클라우드 서비스",
+        "퍼블릭 클라우드 서비스(CSP)"
+      ],
+      "Official_Company": "Not Listed",
+      "Stock_Code": "Not Listed"
+    },
+    {
+      "Company": "대한항공",
+      "Count": 1,
+      "Average_Sentiment": 1.0,
+      "Categories": [
+        "IT 서비스",
+        "IT아웃소싱(ITO)",
+        "매니지드 클라우드 서비스(MSP)",
+        "시스템통합(SI)",
+        "인공지능(AI)",
+        "클라우드 서비스",
+        "퍼블릭 클라우드 서비스(CSP)"
+      ],
+      "Official_Company": "대한항공",
+      "Stock_Code": "003490"
+    },
+    {
+      "Company": "한화생명",
+      "Count": 1,
+      "Average_Sentiment": 1.0,
+      "Categories": [
+        "IT 서비스",
+        "IT아웃소싱(ITO)",
+        "매니지드 클라우드 서비스(MSP)",
+        "시스템통합(SI)",
+        "인공지능(AI)",
+        "클라우드 서비스",
+        "퍼블릭 클라우드 서비스(CSP)"
+      ],
+      "Official_Company": "한화생명보험",
+      "Stock_Code": "000880"
+    },
+    {
+      "Company": "메가존클라우드",
+      "Count": 1,
+      "Average_Sentiment": 1.0,
+      "Categories": [
+        "IT 서비스",
+        "IT아웃소싱(ITO)",
+        "매니지드 클라우드 서비스(MSP)",
+        "시스템통합(SI)",
+        "인공지능(AI)",
+        "클라우드 서비스",
+        "퍼블릭 클라우드 서비스(CSP)"
+      ],
+      "Official_Company": "Not Listed",
+      "Stock_Code": "Not Listed"
+    },
+    {
+      "Company": "베스핀글로벌",
+      "Count": 1,
+      "Average_Sentiment": 1.0,
+      "Categories": [
+        "IT 서비스",
+        "IT아웃소싱(ITO)",
+        "매니지드 클라우드 서비스(MSP)",
+        "시스템통합(SI)",
+        "인공지능(AI)",
+        "클라우드 서비스",
+        "퍼블릭 클라우드 서비스(CSP)"
+      ],
+      "Official_Company": "Not Listed",
+      "Stock_Code": "Not Listed"
+    },
+    {
+      "Company": "LG CNS",
+      "Count": 1,
+      "Average_Sentiment": 1.0,
+      "Categories": [
+        "IT 서비스",
+        "IT아웃소싱(ITO)",
+        "매니지드 클라우드 서비스(MSP)",
+        "시스템통합(SI)",
+        "인공지능(AI)",
+        "클라우드 서비스",
+        "퍼블릭 클라우드 서비스(CSP)"
+      ],
+      "Official_Company": "Not Listed",
+      "Stock_Code": "Not Listed"
+    },
+    {
+      "Company": "SK C&C",
+      "Count": 1,
+      "Average_Sentiment": 1.0,
+      "Categories": [
+        "IT 서비스",
+        "IT아웃소싱(ITO)",
+        "매니지드 클라우드 서비스(MSP)",
+        "시스템통합(SI)",
+        "인공지능(AI)",
+        "클라우드 서비스",
+        "퍼블릭 클라우드 서비스(CSP)"
+      ],
+      "Official_Company": "Not Listed",
+      "Stock_Code": "Not Listed"
+    },
+    {
+      "Company": "KB금융그룹",
+      "Count": 1,
+      "Average_Sentiment": -1.0,
+      "Categories": [
+        "금융"
+      ],
+      "Official_Company": "KB금융지주",
+      "Stock_Code": "105560"
+    },
+    {
+      "Company": "신한금융그룹",
+      "Count": 1,
+      "Average_Sentiment": -1.0,
+      "Categories": [
+        "금융"
+      ],
+      "Official_Company": "신한지주",
+      "Stock_Code": "055550"
+    },
+    {
+      "Company": "하나금융그룹",
+      "Count": 1,
+      "Average_Sentiment": -1.0,
+      "Categories": [
+        "금융"
+      ],
+      "Official_Company": "하나금융지주",
+      "Stock_Code": "086790"
+    },
+    {
+      "Company": "우리금융그룹",
+      "Count": 1,
+      "Average_Sentiment": -1.0,
+      "Categories": [
+        "금융"
+      ],
+      "Official_Company": "우리금융지주",
+      "Stock_Code": "316140"
+    },
+    {
+      "Company": "SPC그룹",
+      "Count": 1,
+      "Average_Sentiment": 1.0,
+      "Categories": [
+        "경제"
+      ],
+      "Official_Company": "Not Listed",
+      "Stock_Code": "Not Listed"
+    },
+    {
+      "Company": "한국노동연구원",
+      "Count": 1,
+      "Average_Sentiment": -1.0,
+      "Categories": [
+        "경제",
+        "고용",
+        "노동시장"
+      ],
+      "Official_Company": "Not Listed",
+      "Stock_Code": "Not Listed"
+    },
+    {
+      "Company": "한국고용정보원",
+      "Count": 1,
+      "Average_Sentiment": -1.0,
+      "Categories": [
+        "경제",
+        "고용",
+        "노동시장"
+      ],
+      "Official_Company": "Not Listed",
+      "Stock_Code": "Not Listed"
+    },
+    {
+      "Company": "SK",
+      "Count": 1,
+      "Average_Sentiment": -1.0,
+      "Categories": [
+        "경제",
+        "금융"
+      ],
+      "Official_Company": "SK텔레콤",
+      "Stock_Code": "017670"
+    },
+    {
+      "Company": "LG",
+      "Count": 1,
+      "Average_Sentiment": -1.0,
+      "Categories": [
+        "경제",
+        "금융"
+      ],
+      "Official_Company": "Not Listed",
+      "Stock_Code": "Not Listed"
+    },
+    {
+      "Company": "포스코",
+      "Count": 1,
+      "Average_Sentiment": -1.0,
+      "Categories": [
+        "경제",
+        "금융"
+      ],
+      "Official_Company": "포스코홀딩스",
+      "Stock_Code": "Not Listed"
+    },
+    {
+      "Company": "롯데",
+      "Count": 1,
+      "Average_Sentiment": -1.0,
+      "Categories": [
+        "경제",
+        "금융"
+      ],
+      "Official_Company": "Not Listed",
+      "Stock_Code": "Not Listed"
+    },
+    {
+      "Company": "한화",
+      "Count": 1,
+      "Average_Sentiment": -1.0,
+      "Categories": [
+        "경제",
+        "금융"
+      ],
+      "Official_Company": "한화솔루션",
+      "Stock_Code": "009830"
+    },
+    {
+      "Company": "GS",
+      "Count": 1,
+      "Average_Sentiment": -1.0,
+      "Categories": [
+        "경제",
+        "금융"
+      ],
+      "Official_Company": "GS홀딩스",
+      "Stock_Code": "078930"
+    },
+    {
+      "Company": "한국무역협회",
+      "Count": 1,
+      "Average_Sentiment": -1.0,
+      "Categories": [
+        "경제",
+        "금융"
+      ],
+      "Official_Company": "Not Listed",
+      "Stock_Code": "Not Listed"
+    },
+    {
+      "Company": "대한상공회의소",
+      "Count": 1,
+      "Average_Sentiment": -1.0,
+      "Categories": [
+        "경제",
+        "금융"
+      ],
+      "Official_Company": "Not Listed",
+      "Stock_Code": "Not Listed"
+    },
+    {
+      "Company": "롯데그룹",
+      "Count": 1,
+      "Average_Sentiment": -1.0,
+      "Categories": [
+        "글로벌 사업",
+        "스페셜티 시장",
+        "식품",
+        "유통",
+        "인공지능"
+      ],
+      "Official_Company": "Not Listed",
+      "Stock_Code": "Not Listed"
+    },
+    {
+      "Company": "CJ그룹",
+      "Count": 1,
+      "Average_Sentiment": -1.0,
+      "Categories": [
+        "글로벌 사업",
+        "스페셜티 시장",
+        "식품",
+        "유통",
+        "인공지능"
+      ],
+      "Official_Company": "Not Listed",
+      "Stock_Code": "Not Listed"
+    },
+    {
+      "Company": "신세계그룹",
+      "Count": 1,
+      "Average_Sentiment": -1.0,
+      "Categories": [
+        "글로벌 사업",
+        "스페셜티 시장",
+        "식품",
+        "유통",
+        "인공지능"
+      ],
+      "Official_Company": "Not Listed",
+      "Stock_Code": "Not Listed"
+    },
+    {
+      "Company": "삼양그룹",
+      "Count": 1,
+      "Average_Sentiment": -1.0,
+      "Categories": [
+        "글로벌 사업",
+        "스페셜티 시장",
+        "식품",
+        "유통",
+        "인공지능"
+      ],
+      "Official_Company": "Not Listed",
+      "Stock_Code": "Not Listed"
+    },
+    {
+      "Company": "제네시스BBQ",
+      "Count": 1,
+      "Average_Sentiment": -1.0,
+      "Categories": [
+        "글로벌 사업",
+        "스페셜티 시장",
+        "식품",
+        "유통",
+        "인공지능"
+      ],
+      "Official_Company": "Not Listed",
+      "Stock_Code": "Not Listed"
+    },
+    {
+      "Company": "삼성바이오로직스",
+      "Count": 1,
+      "Average_Sentiment": 0.0,
+      "Categories": [
+        "수출",
+        "암호화폐",
+        "자본시장",
+        "증권",
+        "파생상품"
+      ],
+      "Official_Company": "삼성바이오로직스",
+      "Stock_Code": "207940"
+    },
+    {
+      "Company": "셀트리온",
+      "Count": 1,
+      "Average_Sentiment": 0.0,
+      "Categories": [
+        "수출",
+        "암호화폐",
+        "자본시장",
+        "증권",
+        "파생상품"
+      ],
+      "Official_Company": "셀트리온",
+      "Stock_Code": "068270"
+    },
+    {
+      "Company": "네이버",
+      "Count": 1,
+      "Average_Sentiment": 0.0,
+      "Categories": [
+        "수출",
+        "암호화폐",
+        "자본시장",
+        "증권",
+        "파생상품"
+      ],
+      "Official_Company": "네이버엠앤드에프홀딩스",
+      "Stock_Code": "Not Listed"
+    },
+    {
+      "Company": "한국부동산원",
+      "Count": 1,
+      "Average_Sentiment": -1.0,
+      "Categories": [
+        "경제",
+        "부동산"
+      ],
+      "Official_Company": "Not Listed",
+      "Stock_Code": "Not Listed"
+    },
+    {
+      "Company": "한국공항공사",
+      "Count": 1,
+      "Average_Sentiment": -1.0,
+      "Categories": [
+        "사고 조사",
+        "안전",
+        "항공"
+      ],
+      "Official_Company": "Not Listed",
+      "Stock_Code": "Not Listed"
+    },
+    {
+      "Company": "하나금융지주",
+      "Count": 1,
+      "Average_Sentiment": 1.0,
+      "Categories": [
+        "금융"
+      ],
+      "Official_Company": "하나금융지주",
+      "Stock_Code": "086790"
+    },
+    {
+      "Company": "현대중공업",
+      "Count": 1,
+      "Average_Sentiment": 1.0,
+      "Categories": [
+        "금융",
+        "조선업",
+        "친환경 기술"
+      ],
+      "Official_Company": "현대중공업",
+      "Stock_Code": "329180"
+    },
+    {
+      "Company": "한국조선해양",
+      "Count": 1,
+      "Average_Sentiment": 1.0,
+      "Categories": [
+        "금융",
+        "조선업",
+        "친환경 기술"
+      ],
+      "Official_Company": "현대중공업지주",
+      "Stock_Code": "Not Listed"
+    },
+    {
+      "Company": "한화오션",
+      "Count": 1,
+      "Average_Sentiment": 1.0,
+      "Categories": [
+        "금융",
+        "조선업",
+        "친환경 기술"
+      ],
+      "Official_Company": "한화오션",
+      "Stock_Code": "042660"
+    },
+    {
+      "Company": "삼성중공업",
+      "Count": 1,
+      "Average_Sentiment": 1.0,
+      "Categories": [
+        "금융",
+        "조선업",
+        "친환경 기술"
+      ],
+      "Official_Company": "삼성중공업",
+      "Stock_Code": "010140"
+    },
+    {
+      "Company": "국민연금공단",
+      "Count": 1,
+      "Average_Sentiment": 0.0,
+      "Categories": [
+        "경제",
+        "금융",
+        "외환시장"
+      ],
+      "Official_Company": "Not Listed",
+      "Stock_Code": "Not Listed"
+    }
+  ]
+}
